@@ -1,0 +1,7 @@
+{
+  "name": "polymer-happy-fun-time",
+  "short_name": "polymer-happy-fun-time",
+  "description": "A git-based tutorial for building a web application using Polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
